@@ -9,8 +9,8 @@ Solução oficial para detecção, classificação e resolução canônica de ci
 * **Nome da Equipe:** DnCeG
 * **Integrantes:**
   * Fabrycio Leite Nakano Almada (`fabrycio@discente.ufg.br` | [@Fabrycio-Nakano](https://github.com/Fabrycio-Nakano))
-  * Maykon Adriell Dutra (`maykonadriell@discente.ufg.br` | [@MaykonAdriell](https://github.com/MaykonAdriell))
   * Kauan Divino Pouso Mariano (`kauan@discente.ufg.br` | [@kauandivino](https://github.com/kauandivino))
+  * Maykon Adriell Dutra (`maykonadriell@discente.ufg.br` | [@MaykonAdriell](https://github.com/MaykonAdriell))
   * Victor Emanuel da Silva Monteiro (`victor_emanuel@egresso.ufg.br` | [@victoremanuelgo](https://github.com/victoremanuelgo))
 
 ---
