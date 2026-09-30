@@ -1,0 +1,49 @@
+# Ambientes virtuais e pacotes
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Bytecode e Caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Bancos de dados pesados (> 90 MB)
+*.db
+*.sqlite
+*.sqlite3
+
+# Artefatos intermediários, snapshots históricos e dados locais de apoio
+artifacts/
+snapshots/
+new_data/
+regras/
+
+# Notebooks Kaggle e checkpoints
+*.ipynb
+.ipynb_checkpoints/
+
+# Protótipos legados e notas de desenvolvimento interno
+generic_extractor_prototype.py
+README_PIPELINE.md
+ANALISE_DESAFIO.md
+
+# Arquivos de sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
